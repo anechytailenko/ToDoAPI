@@ -1,9 +1,9 @@
 # ToDoAPI
 develop of api to ToDo app
 
-<img width="646" alt="Screenshot 2025-06-10 at 09 42 45" src="https://github.com/user-attachments/assets/143e2b63-89bc-47dc-9d4e-91596860c805" />
+<img width="862" alt="Screenshot 2025-06-10 at 10 25 40" src="https://github.com/user-attachments/assets/261acdbd-f603-43f9-a4d4-3ae31b96b906" />
+<img width="930" alt="Screenshot 2025-06-10 at 10 21 24" src="https://github.com/user-attachments/assets/2e8c6b64-2f5f-4b1b-8693-69ecb0d28e5c" />
 
-<img width="869" alt="Screenshot 2025-06-10 at 10 16 40" src="https://github.com/user-attachments/assets/fd75c9a5-2663-47d3-a433-26d97a03037e" />
 
 
 
